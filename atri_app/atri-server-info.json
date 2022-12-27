@@ -9,5 +9,7 @@
   },
   "publicUrlAssetMap": {
     "/app-assets": "..\\assets"
-  }
+  },
+  "organizationName": "roopeshrs",
+  "projectName": "portfolio-atri"
 }

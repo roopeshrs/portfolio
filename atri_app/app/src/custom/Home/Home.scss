@@ -1,0 +1,56 @@
+body{
+    overflow-x: hidden;
+}
+
+.p-Home.menu a{
+    text-decoration: none;
+    color: #000;
+}
+
+.p-Home.services ul{
+    padding-left: 18px;
+}
+.p-Home.services ul li{
+    border: 0 !important;
+}
+
+.p-Home.Image97 {
+    top: -20px;
+}
+
+.p-Home.accordion-section .accordion{
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0 40px 0;
+}
+.p-Home.accordion-section .accordion .accordion-icon{
+    order: 2;
+}
+.p-Home.accordion-section .accordion .accordion-icon path{
+    fill: #fff;
+}
+.p-Home.accordion-section .accordion .accordion-title{
+    order: 1;
+    margin-left: 0 !important;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+.p-Home.accordion-section .accordion-content{
+    background-color: #000;
+    color: #666;
+}
+.p-Home.accordion-section .accordion-content .accordion-text{
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 18px;
+}
+
+.p-Home.footer a{
+    text-decoration: none;
+    color: #fff;
+}

@@ -1,0 +1,110 @@
+{
+  "logo.png": {
+    "mime": "image/png"
+  },
+  "right-arrow.png": {
+    "mime": "image/png"
+  },
+  "hero-image.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "client1.png": {
+    "mime": "image/png"
+  },
+  "client2.png": {
+    "mime": "image/png"
+  },
+  "client3.png": {
+    "mime": "image/png"
+  },
+  "client4.png": {
+    "mime": "image/png"
+  },
+  "service1.png": {
+    "mime": "image/png"
+  },
+  "service2.png": {
+    "mime": "image/png"
+  },
+  "service3.png": {
+    "mime": "image/png"
+  },
+  "project1.png": {
+    "mime": "image/png"
+  },
+  "project2.png": {
+    "mime": "image/png"
+  },
+  "project3.png": {
+    "mime": "image/png"
+  },
+  "project4.png": {
+    "mime": "image/png"
+  },
+  "project5.png": {
+    "mime": "image/png"
+  },
+  "right-arrow-white.png": {
+    "mime": "image/png"
+  },
+  "project-left-arrow.png": {
+    "mime": "image/png"
+  },
+  "project-right-arrow.png": {
+    "mime": "image/png"
+  },
+  "blogs-right-arrow.png": {
+    "mime": "image/png"
+  },
+  "all-right-arrow.png": {
+    "mime": "image/png"
+  },
+  "project-left-arrow1.png": {
+    "mime": "image/png"
+  },
+  "project-right-arrow1.png": {
+    "mime": "image/png"
+  },
+  "about-img1.png": {
+    "mime": "image/png"
+  },
+  "about-img2.png": {
+    "mime": "image/png"
+  },
+  "about-img3.png": {
+    "mime": "image/png"
+  },
+  "about-img4.png": {
+    "mime": "image/png"
+  },
+  "go-to.png": {
+    "mime": "image/png"
+  },
+  "experience-1.png": {
+    "mime": "image/png"
+  },
+  "experience-2.png": {
+    "mime": "image/png"
+  },
+  "experience-3.png": {
+    "mime": "image/png"
+  },
+  "testimonial.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "quote.png": {
+    "mime": "image/png"
+  },
+  "white-left-arrow.png": {
+    "mime": "image/png"
+  },
+  "white-right-arrow.png": {
+    "mime": "image/png"
+  },
+  "footerlogo.png": {
+    "mime": "image/png"
+  },
+  "email.png": {
+    "mime": "image/png"
+  }
+}

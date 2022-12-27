@@ -556,7 +556,7 @@ const desktopModeProps = {
     "Image4": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/hero-image.jpeg"
+        "src": "C:/Program Files/Git/portfolio/app-assets/hero-image.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -632,7 +632,7 @@ const desktopModeProps = {
     "Image5": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/all-right-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/all-right-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -669,7 +669,7 @@ const desktopModeProps = {
     "Image6": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/client1.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/client1.png"
       },
       "callbacks": {
         "onClick": [
@@ -682,7 +682,7 @@ const desktopModeProps = {
     "Image7": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/client2.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/client2.png"
       },
       "callbacks": {
         "onClick": [
@@ -695,7 +695,7 @@ const desktopModeProps = {
     "Image8": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/client3.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/client3.png"
       },
       "callbacks": {
         "onClick": [
@@ -708,7 +708,7 @@ const desktopModeProps = {
     "Image9": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/client4.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/client4.png"
       },
       "callbacks": {
         "onClick": [
@@ -757,7 +757,7 @@ const desktopModeProps = {
     "Image10": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/service1.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/service1.png"
       },
       "callbacks": {
         "onClick": [
@@ -880,7 +880,7 @@ const desktopModeProps = {
     "Image11": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/service2.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/service2.png"
       },
       "callbacks": {
         "onClick": [
@@ -948,7 +948,7 @@ const desktopModeProps = {
     "Image12": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/service3.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/service3.png"
       },
       "callbacks": {
         "onClick": [
@@ -1012,7 +1012,7 @@ const desktopModeProps = {
     "Image13": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/project1.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/project1.png"
       },
       "callbacks": {
         "onClick": [
@@ -1061,7 +1061,7 @@ const desktopModeProps = {
     "Image14": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/all-right-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/all-right-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1074,7 +1074,7 @@ const desktopModeProps = {
     "Image24": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/project2.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/project2.png"
       },
       "callbacks": {
         "onClick": [
@@ -1111,7 +1111,7 @@ const desktopModeProps = {
     "Image23": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/all-right-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/all-right-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1136,7 +1136,7 @@ const desktopModeProps = {
     "Image26": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/project3.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/project3.png"
       },
       "callbacks": {
         "onClick": [
@@ -1185,7 +1185,7 @@ const desktopModeProps = {
     "Image25": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/all-right-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/all-right-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1198,7 +1198,7 @@ const desktopModeProps = {
     "Image28": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/project4.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/project4.png"
       },
       "callbacks": {
         "onClick": [
@@ -1235,7 +1235,7 @@ const desktopModeProps = {
     "Image27": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/all-right-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/all-right-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1260,7 +1260,7 @@ const desktopModeProps = {
     "Image30": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/project5.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/project5.png"
       },
       "callbacks": {
         "onClick": [
@@ -1309,7 +1309,7 @@ const desktopModeProps = {
     "Image29": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/all-right-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/all-right-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1322,7 +1322,7 @@ const desktopModeProps = {
     "Image32": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/project-left-arrow1.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/project-left-arrow1.png"
       },
       "callbacks": {
         "onClick": [
@@ -1335,7 +1335,7 @@ const desktopModeProps = {
     "Image33": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/project-right-arrow1.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/project-right-arrow1.png"
       },
       "callbacks": {
         "onClick": [
@@ -1372,7 +1372,7 @@ const desktopModeProps = {
     "Image31": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/blogs-right-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/blogs-right-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1448,7 +1448,7 @@ const desktopModeProps = {
     "Image34": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/blogs-right-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/blogs-right-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1473,7 +1473,7 @@ const desktopModeProps = {
     "Image39": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/blogs-right-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/blogs-right-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1576,7 +1576,7 @@ const desktopModeProps = {
     "Image40": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/blogs-right-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/blogs-right-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1601,7 +1601,7 @@ const desktopModeProps = {
     "Image41": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/blogs-right-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/blogs-right-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1704,7 +1704,7 @@ const desktopModeProps = {
     "Image42": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/blogs-right-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/blogs-right-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1753,7 +1753,7 @@ const desktopModeProps = {
     "Image77": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/about-img1.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/about-img1.png"
       },
       "callbacks": {
         "onClick": [
@@ -1766,7 +1766,7 @@ const desktopModeProps = {
     "Image78": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/about-img2.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/about-img2.png"
       },
       "callbacks": {
         "onClick": [
@@ -1779,7 +1779,7 @@ const desktopModeProps = {
     "Image80": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/about-img3.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/about-img3.png"
       },
       "callbacks": {
         "onClick": [
@@ -1792,7 +1792,7 @@ const desktopModeProps = {
     "Image81": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/about-img4.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/about-img4.png"
       },
       "callbacks": {
         "onClick": [
@@ -1865,7 +1865,7 @@ const desktopModeProps = {
     "Image83": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/go-to.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/go-to.png"
       },
       "callbacks": {
         "onClick": [
@@ -1878,7 +1878,7 @@ const desktopModeProps = {
     "Image84": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/go-to.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/go-to.png"
       },
       "callbacks": {
         "onClick": [
@@ -1963,7 +1963,7 @@ const desktopModeProps = {
     "Image89": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/go-to.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/go-to.png"
       },
       "callbacks": {
         "onClick": [
@@ -2000,7 +2000,7 @@ const desktopModeProps = {
     "Image90": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/go-to.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/go-to.png"
       },
       "callbacks": {
         "onClick": [
@@ -2025,7 +2025,7 @@ const desktopModeProps = {
     "Image91": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/experience-1.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/experience-1.png"
       },
       "callbacks": {
         "onClick": [
@@ -2062,7 +2062,7 @@ const desktopModeProps = {
     "Image92": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/experience-2.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/experience-2.png"
       },
       "callbacks": {
         "onClick": [
@@ -2111,7 +2111,7 @@ const desktopModeProps = {
     "Image93": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/go-to.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/go-to.png"
       },
       "callbacks": {
         "onClick": [
@@ -2124,7 +2124,7 @@ const desktopModeProps = {
     "Image94": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/experience-3.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/experience-3.png"
       },
       "callbacks": {
         "onClick": [
@@ -2173,7 +2173,7 @@ const desktopModeProps = {
     "Image95": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/go-to.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/go-to.png"
       },
       "callbacks": {
         "onClick": [
@@ -2210,7 +2210,7 @@ const desktopModeProps = {
     "Image103": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/testimonial.jpeg"
+        "src": "C:/Program Files/Git/portfolio/app-assets/testimonial.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2223,7 +2223,7 @@ const desktopModeProps = {
     "Image97": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/quote.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/quote.png"
       },
       "callbacks": {
         "onClick": [
@@ -2272,7 +2272,7 @@ const desktopModeProps = {
     "Image98": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/white-left-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/white-left-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -2285,7 +2285,7 @@ const desktopModeProps = {
     "Image99": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/white-right-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/white-right-arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -2454,7 +2454,7 @@ const desktopModeProps = {
     "Image100": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/footerlogo.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/footerlogo.png"
       },
       "callbacks": {
         "onClick": [
@@ -2479,7 +2479,7 @@ const desktopModeProps = {
     "Image101": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/email.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/email.png"
       },
       "callbacks": {
         "onClick": [
@@ -2621,7 +2621,7 @@ const desktopModeProps = {
     "logo": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/logo.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/logo.png"
       },
       "callbacks": {
         "onClick": [
@@ -2698,7 +2698,7 @@ const desktopModeProps = {
     "Image2": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/portfolio-atri/app-assets/all-right-arrow.png"
+        "src": "C:/Program Files/Git/portfolio/app-assets/all-right-arrow.png"
       },
       "callbacks": {
         "onClick": [
